@@ -4,3 +4,4 @@
 - Pushed first code to GitHub
 - Learned about variables and built-in functions
 - Learned about operators
+- Learned about strings and string methods
