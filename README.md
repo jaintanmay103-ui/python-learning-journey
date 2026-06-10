@@ -5,3 +5,4 @@
 - Learned about variables and built-in functions
 - Learned about operators
 - Learned about strings and string methods
+- Learned about lists and it's function
