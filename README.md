@@ -6,3 +6,4 @@
 - Learned about operators
 - Learned about strings and string methods
 - Learned about lists and it's function
+- Learned about tuples and it's function
