@@ -8,3 +8,4 @@
 - Learned about lists and it's function
 - Learned about tuples and it's function
 - Learned about sets and it's function
+- Learned about dictionaries and it's function
